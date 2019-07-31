@@ -1,1 +1,5 @@
-this is my answer
+#1: grep "^Z" cities.txt
+#2: grep "gan\>" cities.txt
+#3: grep "^[ADE]" cities.txt
+#4: gre0 "\<.ar" cities.txt
+#5: 
